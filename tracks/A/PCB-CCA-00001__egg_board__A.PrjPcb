@@ -1,0 +1,70 @@
+[Design]
+Version = 1.0
+HeirarchyMode = 0
+CurrentVariant = A
+
+[Document1]
+DocumentPath = egg_board__TOP_LEVEL__A.SchDoc
+
+[Document2]
+DocumentPath = egg_board__A.PcbDoc
+
+[Document3]
+DocumentPath = egg_board__Fab_A.PCBDwf
+
+[Document4]
+DocumentPath = egg_board__Assy_A.PCBDwf
+
+[Document5]
+DocumentPath = egg_board__A.OutJob
+
+[Document6]
+DocumentPath = egg_board__A.BomDoc
+
+[Document7]
+DocumentPath = BOM_Template.xlsx
+
+[Parameter1]
+Name = CCA_PART_NUMBER
+Value = CCA-CCA-00001
+
+[Parameter2]
+Name = CCA_TITLE
+Value = egg_board
+
+[Parameter3]
+Name = PCB_PART_NUMBER
+Value = egg_board
+
+[Parameter4]
+Name = PCB_VERSION
+Value = A
+
+[Parameter5]
+Name = PROJECT_ENGINEER
+Value = plexus
+
+[Parameter6]
+Name = PROJECT_STATUS
+Value = PROTOTYPE
+
+[Parameter7]
+Name = PROJECT_TITLE_LINE_1
+Value = RT685 Audio Platform
+
+[Parameter8]
+Name = PROJECT_TITLE_LINE_2
+Value = 
+
+[Parameter9]
+Name = SCH_DATE
+Value = 2023-12-08
+
+[ProjectVariant1]
+UniqueID = BA3C46D8-6266-4655-961A-A738B084370D
+Description = A
+AllowFabrication = 1
+ParameterCount = 0
+VariationCount = 0
+ParamVariationCount = 0
+
